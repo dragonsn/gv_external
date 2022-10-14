@@ -1,0 +1,16 @@
+adler32.hpp
+compress.hpp
+crc32.hpp
+deflate.hpp
+gv_zlib_all_in_one.hpp
+gzclose.hpp
+gzlib.hpp
+gzread.hpp
+gzwrite.hpp
+infback.hpp
+inffast.hpp
+inflate.hpp
+inftrees.hpp
+trees.hpp
+uncompr.hpp
+zutil.hpp
